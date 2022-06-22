@@ -1,0 +1,15 @@
+C:\balta\Editor de texto\editordetexto\obj\Debug\net6.0\editordetexto.csproj.AssemblyReference.cache
+C:\balta\Editor de texto\editordetexto\obj\Debug\net6.0\editordetexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\balta\Editor de texto\editordetexto\obj\Debug\net6.0\editordetexto.AssemblyInfoInputs.cache
+C:\balta\Editor de texto\editordetexto\obj\Debug\net6.0\editordetexto.AssemblyInfo.cs
+C:\balta\Editor de texto\editordetexto\obj\Debug\net6.0\editordetexto.csproj.CoreCompileInputs.cache
+C:\balta\Editor de texto\editordetexto\bin\Debug\net6.0\editordetexto.exe
+C:\balta\Editor de texto\editordetexto\bin\Debug\net6.0\editordetexto.deps.json
+C:\balta\Editor de texto\editordetexto\bin\Debug\net6.0\editordetexto.runtimeconfig.json
+C:\balta\Editor de texto\editordetexto\bin\Debug\net6.0\editordetexto.dll
+C:\balta\Editor de texto\editordetexto\bin\Debug\net6.0\editordetexto.pdb
+C:\balta\Editor de texto\editordetexto\obj\Debug\net6.0\editordetexto.dll
+C:\balta\Editor de texto\editordetexto\obj\Debug\net6.0\refint\editordetexto.dll
+C:\balta\Editor de texto\editordetexto\obj\Debug\net6.0\editordetexto.pdb
+C:\balta\Editor de texto\editordetexto\obj\Debug\net6.0\editordetexto.genruntimeconfig.cache
+C:\balta\Editor de texto\editordetexto\obj\Debug\net6.0\ref\editordetexto.dll
